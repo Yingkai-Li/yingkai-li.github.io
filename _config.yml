@@ -21,7 +21,7 @@ repository               : "yingkai-li/yingkai-li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Yingkai Li (李瑛恺)"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in Economics"
