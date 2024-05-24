@@ -40,6 +40,6 @@ author_profile: true
 {% if publication.type == '1' %}
    [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
    {{ publication.authors }}  
-   _{{ publication.conference }}_, {{ publication.year }}
+   _{{ publication.conference }}_ ({{ publication.acronym }}), {{ publication.year }}
 {% endif %}
 {% endfor %}
