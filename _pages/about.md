@@ -17,3 +17,5 @@ Yingkai Li is an Assistant Professor in Economics at the National University of 
 * Algorithmic Game Theory
 * Online Algorithms
 
+### News
+* I'm co-organizing the [EC'24 Workshop on Information Acquisition](https://sites.google.com/u.northwestern.edu/information-acquisition). Calling for posters now.
