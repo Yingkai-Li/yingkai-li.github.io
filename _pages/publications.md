@@ -36,4 +36,10 @@ author_profile: true
 
 
 ## Conference Publications
-
+{% for publication in site.publications reversed %}
+{% if publication.type == '1' %}
+   [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
+   {{ publication.authors }}  
+   _{{ publication.conference }}_, {{ publication.year }}
+{% endif %}
+{% endfor %}
