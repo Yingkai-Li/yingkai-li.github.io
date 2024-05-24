@@ -16,29 +16,29 @@ author_profile: true
 {% endfor %} -->
 
 
-## Journal Publications
+## Journals
 
 <!-- {% assign sorted_journal_publications = site.publications.journals reversed %} -->
 
 {% for publication in site.publications reversed %}
 {% if publication.type == '3' %}
-   [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
+*  [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
    {{ publication.authors }}  
    _{{ publication.journal }}_, {{ publication.year }}  
    conference version: _{{ publication.conference }}_ ({{ publication.acronym }}), {{publication.conferenceyear}}
 {% endif %}
 {% if publication.type == '2' %}
-   [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
+*  [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
    {{ publication.authors }}  
    _{{ publication.journal }}_, {{ publication.year }}
 {% endif %}
 {% endfor %}
 
 
-## Conference Publications
+## Conference Proceedings
 {% for publication in site.publications reversed %}
 {% if publication.type == '1' %}
-   [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
+*  [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
    {{ publication.authors }}  
    _{{ publication.conference }}_ ({{ publication.acronym }}), {{ publication.year }}
 {% endif %}
