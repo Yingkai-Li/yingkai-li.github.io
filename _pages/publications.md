@@ -18,10 +18,10 @@ author_profile: true
 
 ## Journal Publications
 
-{% assign sorted_journal_publications = site.publications.journals | sort: "year" | reverse %}
+{% assign sorted_journal_publications = site.publications.journals reversed %}
 
 {% for publication in sorted_journal_publications %}
-1. [{{ publication.title }}]({{ publication.link }})  
+   [{{ publication.title }}]({{ publication.link }})  
    {{ publication.authors }}  
    _{{ publication.venue }}_ {{ publication.year }}
 {% endfor %}
