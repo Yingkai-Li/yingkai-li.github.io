@@ -20,7 +20,7 @@ author_profile: true
 
 <!-- {% assign sorted_journal_publications = site.publications.journals reversed %} -->
 
-{% for publication in site.publications.journals reversed %}
+{% for publication in site.journals reversed %}
 1. [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
    {{ publication.authors }}  
    _{{ publication.venue }}_, {{ publication.year }}
