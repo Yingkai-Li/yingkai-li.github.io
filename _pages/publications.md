@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
@@ -13,4 +13,19 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
+{% endfor %} -->
+
+
+## Journal Publications
+
+{% assign sorted_journal_publications = site.publications.journals | sort: "year" | reverse %}
+
+{% for publication in sorted_journal_publications %}
+1. [{{ publication.title }}]({{ publication.link }})  
+   {{ publication.authors }}  
+   _{{ publication.venue }}_ {{ publication.year }}
 {% endfor %}
+
+
+## Conference Publications
+

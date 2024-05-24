@@ -23,13 +23,17 @@ major revision at *Operations Research*.
 * [Exploration and Incentivizing Participation in Clinical Trials](https://arxiv.org/abs/2202.06191){:target="_blank"}  
 Yingkai Li, Aleksandrs Slivkins. 
 
+* [Scale-robust Auctions](https://yingkai-li.github.io/files/scale.pdf)  
+Jason Hartline, Aleck Johnsen, Yingkai Li.
+
 * Optimal Mechanism Design with Endogenous Principal Learning  
 Daniel Clark, Yingkai Li.  
 
 * Falsifiable Test Design in Coordination  
 Yingkai Li, Boli Xu.
 
-
+* Dynamics and Contracts for an Agent with Misspecified Beliefs  
+Yingkai Li, Argyris Oikonomou.
 
 # Notes and Dormant Papers
 
