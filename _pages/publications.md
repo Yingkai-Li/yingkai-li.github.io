@@ -21,7 +21,7 @@ author_profile: true
 <!-- {% assign sorted_journal_publications = site.publications.journals reversed %} -->
 
 {% for publication in site.publications reversed %}
-{% if publication.type = 3 %}
+{% if publication.type == '3' %}
    [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
    {{ publication.authors }}  
    _{{ publication.journal }}_, {{ publication.year }}
