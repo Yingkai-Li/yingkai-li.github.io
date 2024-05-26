@@ -25,7 +25,7 @@ author_profile: true
 *  [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
    {{ publication.authors }}  
    _{{ publication.journal }}_, {{ publication.year }}  
-   conference version: _{{ publication.conference }}_ ({{ publication.acronym }}), {{publication.conferenceyear}}
+   conference version: _{{ publication.conference }}_ (*{{ publication.acronym }}*), {{publication.conferenceyear}}
 {% endif %}
 {% if publication.type == '2' %}
 *  [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
@@ -40,6 +40,6 @@ author_profile: true
 {% if publication.type == '1' %}
 *  [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
    {{ publication.authors }}  
-   _{{ publication.conference }}_ ({{ publication.acronym }}), {{ publication.year }}
+   _{{ publication.conference }}_ (*{{ publication.acronym }}*), {{ publication.year }}
 {% endif %}
 {% endfor %}
