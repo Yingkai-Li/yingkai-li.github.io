@@ -41,8 +41,7 @@ author_profile: true
 *  [{{ publication.title }}]({{ publication.link }}){:target="_blank"}  
    {{ publication.authors }}  
    _{{ publication.conference }}_ (**{{ publication.acronym }}**), {{ publication.year }} 
-   {[{{ publication.video }}]}
-   {% if publication.type %}
+   {% if publication.video %}
    {% else %} [test]
    {% endif %}
 {% endif %}
