@@ -29,7 +29,7 @@ Jason Hartline, Aleck Johnsen, Yingkai Li.
 * Optimal Mechanism Design with Endogenous Principal Learning  
 Daniel Clark, Yingkai Li.  
 
-* Falsifiable Test Design in Coordination  
+* Falsifiable Test Design in Coordination Games  
 Yingkai Li, Boli Xu.
 
 * Dynamics and Contracts for an Agent with Misspecified Beliefs  
