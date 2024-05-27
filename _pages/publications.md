@@ -42,7 +42,7 @@ author_profile: true
    {{ publication.authors }}  
    _{{ publication.conference }}_ (**{{ publication.acronym }}**), {{ publication.year }} 
    {% if publication.video %}
-   {% else %} [test]
+     [[video](publication.video)]
    {% endif %}
 {% endif %}
 {% endfor %}
