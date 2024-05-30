@@ -16,6 +16,9 @@ Yiding Feng, Jason Hartline, Yingkai Li.
 * [Managing Persuasion Robustly: The Optimality of Quota Rules](https://arxiv.org/abs/2310.10024){:target="_blank"}  
 Dirk Bergemann, Tan Gan, Yingkai Li.
 
+* [Falsifiable Test Design in Coordination Games](https://arxiv.org/abs/2405.18521){:target="_blank"}  
+Yingkai Li, Boli Xu.
+
 * [Budget Pacing in Repeated Auctions: Regret and Efficiency without Convergence](https://arxiv.org/abs/2205.08674){:target="_blank"}  
 Jason Gaitonde, Yingkai Li, Bar Light, Brendan Lucier, Aleksandrs Slivkins.  
 major revision at *Operations Research*.
@@ -28,9 +31,6 @@ Jason Hartline, Aleck Johnsen, Yingkai Li.
 
 * Optimal Mechanism Design with Endogenous Principal Learning  
 Daniel Clark, Yingkai Li.  
-
-* Falsifiable Test Design in Coordination Games  
-Yingkai Li, Boli Xu.
 
 * Dynamics and Contracts for an Agent with Misspecified Beliefs  
 Yingkai Li, Argyris Oikonomou.
