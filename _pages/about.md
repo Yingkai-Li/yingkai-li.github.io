@@ -20,5 +20,5 @@ Yingkai Li is an Assistant Professor in Economics at the National University of 
 
 ### Contacts
 Email: yk.li [at] nus.edu.sg  
-Office: AS2, 05-21, 1 Arts Link, Singapore 117568
+Office: AS2 05-21, 1 Arts Link, Singapore 117568
 
