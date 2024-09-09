@@ -4,11 +4,12 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/EC5881
 venue: "Department of Economics, National University of Singapore"
-date: 2014-01-01
+date: 2024-08-12
 location: "Singapore"
 ---
 
-Lecture Notes
+
+## Lecture Notes
 
 * [Existence of General Equilibria](/files/equilibrium_existence.pdf){:target="_blank"}  
 
