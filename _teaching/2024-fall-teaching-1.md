@@ -9,11 +9,16 @@ location: "Singapore"
 ---
 
 
-## Lecture Notes
+<br />
 
-* [Existence of General Equilibria](/files/equilibrium_existence.pdf){:target="_blank"}  
+## General Equilibrium Lecture Notes
+
+* [Existence of General Equilibrium](/files/equilibrium_existence.pdf){:target="_blank"}  
 
 * [Welfare Theorems](/files/welfare_theorem.pdf){:target="_blank"} 
+
+
+## Game Theory Lecture Notes
 
 <!-- Heading 1
 ======
