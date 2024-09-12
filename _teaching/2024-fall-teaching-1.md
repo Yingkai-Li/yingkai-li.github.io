@@ -17,6 +17,8 @@ location: "Singapore"
 
 * [Welfare Theorems](/files/welfare_theorem.pdf){:target="_blank"} 
 
+* [Production Economy](/files/production_economy.pdf){:target="_blank"} 
+
 
 ## Game Theory Lecture Notes
 
