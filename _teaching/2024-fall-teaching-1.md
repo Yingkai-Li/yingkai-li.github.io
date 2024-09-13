@@ -1,5 +1,5 @@
 ---
-title: "EC5881"
+title: "EC5881 Topics in Microeconomics"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/EC5881
