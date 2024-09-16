@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](https://yingkai-li.github.io/files/Yingkai_Li_CV.pdf), updated June 2024.
+[CV](https://yingkai-li.github.io/files/Yingkai_Li_CV.pdf), updated Sep 2024.
 
 <!-- Education
 ======
