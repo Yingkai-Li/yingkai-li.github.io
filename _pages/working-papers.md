@@ -4,7 +4,7 @@ permalink: /working-papers/
 author_profile: true
 ---
 
-* [Optimal Scoring for Dynamic Information Acquisition](https://arxiv.org/abs/2310.19147){:target="_blank"}  
+* [Implementing Evidence Acquisition: Time Dependence in Contracts for Advice](https://yingkai-li.github.io/files/drafts/Dynamic_Scoring.pdf){:target="_blank"}  
 Yingkai Li, Jonathan Libgober.
 
 * [Screening Signal-Manipulating Agents via Contests](https://arxiv.org/abs/2302.09168){:target="_blank"}  
