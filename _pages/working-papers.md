@@ -26,7 +26,7 @@ major revision at *Operations Research*.
 * [Exploration and Incentivizing Participation in Clinical Trials](https://arxiv.org/abs/2202.06191){:target="_blank"}  
 Yingkai Li, Aleksandrs Slivkins. 
 
-* [Scale-robust Auctions](https://yingkai-li.github.io/files/scale.pdf)  
+* [Scale-robust Auctions](https://yingkai-li.github.io/files/drafts/scale.pdf)  
 Jason Hartline, Aleck Johnsen, Yingkai Li.
 
 * Mechanism Design with Endogenous Principal Learning  
