@@ -22,6 +22,11 @@ location: "Singapore"
 
 ## Game Theory Lecture Notes
 
+* [Bayesian Nash Equilibrium](/files/EC5881/Bayesian_Nash.pdf){:target="_blank"}  
+
+* [Mechanism Design and Auctions](){:target="_blank"}  
+* 
+
 <!-- Heading 1
 ======
 
