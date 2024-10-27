@@ -25,6 +25,7 @@ location: "Singapore"
 * [Bayesian Nash Equilibrium](/files/EC5881/Bayesian_Nash.pdf){:target="_blank"}  
 
 * [Mechanism Design and Auctions](/files/EC5881/Mechanism_Design.pdf){:target="_blank"}  
+
 * [Comparative Statics](){:target="_blank"}  
 
 <!-- Heading 1
