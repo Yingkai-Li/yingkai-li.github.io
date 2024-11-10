@@ -11,6 +11,7 @@ Yingkai Li is an Assistant Professor (Presidential Young Professor) in Economics
 
 ### News
 * I'm hiring a postdoc for a one-year position, with the possibility of renewal for a second year. If you're interested, feel free to submit your application [here](https://careers.nus.edu.sg/NUS/job/ARTS-&-SOC-SC-Postdoctoral-Fellow-%28Economics%29-Kent/31069444/).
+* I host visiting students throughout the year. If you're interested in visiting for several months or half a year, please feel free to contact me directly via email.
 <!-- * I'm co-organizing the [EC'24 Workshop on Information Acquisition](https://sites.google.com/u.northwestern.edu/information-acquisition). Calling for posters now. Deadline: June 7th. -->
 
 ### Research Interests
