@@ -26,7 +26,7 @@ location: "Singapore"
 
 * [Mechanism Design and Auctions](/files/EC5881/Mechanism_Design.pdf){:target="_blank"}  
 
-* [Comparative Statics](){:target="_blank"}  
+* [Monotone Comparative Statics](/files/EC5881/Monotone_Comparative_Statics.pdf){:target="_blank"}  
 
 <!-- Heading 1
 ======
