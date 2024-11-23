@@ -29,7 +29,7 @@ Yingkai Li, Aleksandrs Slivkins.
 * [Scale-robust Auctions](https://yingkai-li.github.io/files/drafts/scale.pdf){:target="_blank"}  
 Jason Hartline, Aleck Johnsen, Yingkai Li.
 
-* Mechanism Design with Endogenous Principal Learning  
+* [Mechanism Design with Endogenous Principal Learning](https://yingkai-li.github.io/files/drafts/Slides_Endogenous_Principal_Learning){:target="_blank"}  
 Daniel Clark, Yingkai Li.  
 
 * [Dynamics and Contracts for an Agent with Misspecified Beliefs](https://arxiv.org/abs/2405.20423){:target="_blank"}  
