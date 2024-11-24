@@ -18,7 +18,7 @@ Yingkai Li is an Assistant Professor (Presidential Young Professor) in Economics
 * Mechanism Design
 * Information Design
 * Algorithmic Game Theory
-* Online Algorithms and Learning
+<!-- * Online Algorithms and Learning -->
 
 ### Contacts
 Email: yk.li [at] nus.edu.sg  
