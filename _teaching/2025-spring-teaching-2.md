@@ -11,6 +11,4 @@ location: "Singapore"
 
 <br />
 
-## Simple Auctions
-
-* [slides](){:target="_blank"} 
+* [Introduction](/files/EC4501/intro.pdf){:target="_blank"} 
