@@ -4,6 +4,9 @@ permalink: /working-papers/
 author_profile: true
 ---
 
+* [Information Disclosure Makes Simple Mechanisms Competitive](https://arxiv.org/abs/2502.17809){:target="_blank"}  
+Yang Cai, Yingkai Li, Jinzhao Wu.
+
 * [Implementing Evidence Acquisition: Time Dependence in Contracts for Advice](https://yingkai-li.github.io/files/drafts/Dynamic_Scoring.pdf){:target="_blank"}  
 Yingkai Li, Jonathan Libgober.
 
