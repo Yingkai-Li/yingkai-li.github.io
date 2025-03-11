@@ -10,7 +10,10 @@ Yang Cai, Yingkai Li, Jinzhao Wu.
 * [Implementing Evidence Acquisition: Time Dependence in Contracts for Advice](https://yingkai-li.github.io/files/drafts/Dynamic_Scoring.pdf){:target="_blank"}  
 Yingkai Li, Jonathan Libgober.
 
-* [Screening Signal-Manipulating Agents via Contests](https://arxiv.org/abs/2302.09168){:target="_blank"}  
+<!-- * [Mechanism Design under Costly Signaling: the Value of Non-Coordination](https://arxiv.org/abs/2302.09168){:target="_blank"}  
+Yingkai Li, Xiaoyun Qiu. -->
+
+* [Mechanism Design under Costly Signaling: the Value of Non-Coordination](https://yingkai-li.github.io/files/drafts/non-coordination.pdf){:target="_blank"}  
 Yingkai Li, Xiaoyun Qiu.
 
 * [Simple Mechanisms for Agents with Non-linear Utilities](https://arxiv.org/abs/2003.00545){:target="_blank"}  
@@ -19,7 +22,7 @@ Yiding Feng, Jason Hartline, Yingkai Li.
 * [Managing Persuasion Robustly: The Optimality of Quota Rules](https://arxiv.org/abs/2310.10024){:target="_blank"}  
 Dirk Bergemann, Tan Gan, Yingkai Li.
 
-* [Falsifiable Test Design in Coordination Games](https://arxiv.org/abs/2405.18521){:target="_blank"}  
+* [Information Acquisition Towards Unanimous Consent](https://arxiv.org/abs/2405.18521){:target="_blank"}  
 Yingkai Li, Boli Xu.
 
 * [Budget Pacing in Repeated Auctions: Regret and Efficiency without Convergence](https://arxiv.org/abs/2205.08674){:target="_blank"}  
