@@ -20,7 +20,8 @@ Yingkai Li, Xiaoyun Qiu.
 Yiding Feng, Jason Hartline, Yingkai Li.
 
 * [Managing Persuasion Robustly: The Optimality of Quota Rules](https://arxiv.org/abs/2310.10024){:target="_blank"}  
-Dirk Bergemann, Tan Gan, Yingkai Li.
+Dirk Bergemann, Tan Gan, Yingkai Li.  
+Revise and Resubmit at Journal of Economic Theory.
 
 * [Information Acquisition Towards Unanimous Consent](https://arxiv.org/abs/2405.18521){:target="_blank"}  
 Yingkai Li, Boli Xu.
