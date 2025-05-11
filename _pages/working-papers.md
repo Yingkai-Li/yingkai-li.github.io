@@ -16,7 +16,7 @@ Yingkai Li, Xiaoyun Qiu. -->
 * [Mechanism Design under Costly Signaling: the Value of Non-Coordination](https://yingkai-li.github.io/files/drafts/non-coordination.pdf){:target="_blank"}  
 Yingkai Li, Xiaoyun Qiu.
 
-* [Simple Mechanisms for Agents with Non-linear Utilities](https://arxiv.org/abs/2003.00545){:target="_blank"}  
+* [Simple Mechanisms for Agents with Non-linear Utilities](https://yingkai-li.github.io/files/drafts/simple_non_linear.pdf){:target="_blank"}  
 Yiding Feng, Jason Hartline, Yingkai Li.
 
 * [Managing Persuasion Robustly: The Optimality of Quota Rules](https://arxiv.org/abs/2310.10024){:target="_blank"}  
