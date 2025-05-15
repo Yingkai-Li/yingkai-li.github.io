@@ -42,11 +42,6 @@ Daniel Clark, Yingkai Li.
 * [Dynamics and Contracts for an Agent with Misspecified Beliefs](https://arxiv.org/abs/2405.20423){:target="_blank"}  
 Yingkai Li, Argyris Oikonomou.
 
-* [Multi-Project Contracts](){:target="_blank"}  
-Tal Alon, Matteo Castiglioni, Junjie Chen, Tomer Ezra, Yingkai Li, Inbal Talgam-Cohen.
-
-* [Competition Complexity in Multi-item Auctions: Beyond VCG and Regularity](){:target="_blank"}  
-Hedyeh Beyhaghi, Linda Cai, Yiding Feng, Yingkai Li, Matthew Weinberg.
 
 # Notes and Dormant Papers
 
