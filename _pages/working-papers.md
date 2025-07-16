@@ -10,8 +10,8 @@ Yang Cai, Yingkai Li, Jinzhao Wu.
 * [Incentivizing Forecasters to Learn: Summarized vs. Unrestricted Advice](https://yingkai-li.github.io/files/drafts/Dynamic_Scoring.pdf){:target="_blank"}  
 Yingkai Li, Jonathan Libgober.
 
-<!-- * [Mechanism Design under Costly Signaling: the Value of Non-Coordination](https://arxiv.org/abs/2302.09168){:target="_blank"}  
-Yingkai Li, Xiaoyun Qiu. -->
+* [Fair Contracts](https://arxiv.org/abs/2507.11214){:target="_blank"}  
+Matteo Castiglioni, Junjie Chen, Yingkai Li.
 
 * [Mechanism Design under Costly Signaling: the Value of Non-Coordination](https://yingkai-li.github.io/files/drafts/non-coordination.pdf){:target="_blank"}  
 Yingkai Li, Xiaoyun Qiu.
