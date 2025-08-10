@@ -1,8 +1,8 @@
 ---
-title: "EC5881/EC5881R Topics in Microeconomics"
+title: "EC5301 Microeconomic Analysis"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/EC5881
+permalink: /teaching/EC5301
 venue: "Department of Economics, National University of Singapore"
 date: 2024-08-12
 location: "Singapore"
