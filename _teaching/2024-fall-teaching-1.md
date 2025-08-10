@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/EC5881
 venue: "Department of Economics, National University of Singapore"
-# date: 2024-08-12
+date: 2024-08-12
 location: "Singapore"
 ---
 
