@@ -6,11 +6,11 @@ author_profile: true
 
 * [Mechanism Design under Costly Signaling: the Value of Non-Coordination](https://yingkai-li.github.io/files/drafts/non-coordination.pdf){:target="_blank"}  
 Yingkai Li, Xiaoyun Qiu.  
-Revise and Resubmit at Theoretical Economics.
+Revise and Resubmit at *Theoretical Economics*.
 
 * [Managing Persuasion Robustly: The Optimality of Quota Rules](https://arxiv.org/abs/2310.10024){:target="_blank"}  
 Dirk Bergemann, Tan Gan, Yingkai Li.  
-Revise and Resubmit at Journal of Economic Theory.
+Revise and Resubmit at *Journal of Economic Theory*.
 
 * [Budget Pacing in Repeated Auctions: Regret and Efficiency without Convergence](https://arxiv.org/abs/2205.08674){:target="_blank"}  
 Jason Gaitonde, Yingkai Li, Bar Light, Brendan Lucier, Aleksandrs Slivkins.  
