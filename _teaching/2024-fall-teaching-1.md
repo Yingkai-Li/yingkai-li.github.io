@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/EC5301
 venue: "Department of Economics, National University of Singapore"
-date: 2024-08-12
+date: 2025-08-11
 location: "Singapore"
 ---
 
@@ -22,7 +22,7 @@ location: "Singapore"
 
 ## Game Theory Lecture Notes
 
-* [Bayesian Nash Equilibrium](/files/EC5881/Bayesian_Nash.pdf){:target="_blank"}  
+* [Bayesian Nash Equilibrium](/files/EC5301/BNE.pdf){:target="_blank"}  
 
 * [Mechanism Design and Auctions](/files/EC5881/Mechanism_Design.pdf){:target="_blank"}  
 
