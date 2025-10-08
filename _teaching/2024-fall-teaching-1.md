@@ -24,9 +24,9 @@ location: "Singapore"
 
 * [Bayesian Nash Equilibrium](/files/EC5301/BNE.pdf){:target="_blank"}  
 
-* [Mechanism Design and Auctions](/files/EC5881/Mechanism_Design.pdf){:target="_blank"}  
+* [Mechanism Design and Auctions](/files/EC5301/Auctions.pdf){:target="_blank"}  
 
-* [Monotone Comparative Statics](/files/EC5881/Monotone_Comparative_Statics.pdf){:target="_blank"}  
+* [Monotone Comparative Statics](/files/EC5301/MCS.pdf){:target="_blank"}  
 
 <!-- Heading 1
 ======
