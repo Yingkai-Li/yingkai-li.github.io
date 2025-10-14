@@ -16,7 +16,7 @@ Revise and Resubmit at *Journal of Economic Theory*.
 Jason Gaitonde, Yingkai Li, Bar Light, Brendan Lucier, Aleksandrs Slivkins.  
 major revision at *Operations Research*.
 
-* [Information Disclosure Makes Simple Mechanisms Competitive](https://arxiv.org/abs/2502.17809){:target="_blank"}  
+* [Multi-Dimensional Screening with Endogenous Information Disclosure](https://arxiv.org/abs/2502.17809){:target="_blank"}  
 Yang Cai, Yingkai Li, Jinzhao Wu.
 
 * [Incentivizing Forecasters to Learn: Summarized vs. Unrestricted Advice](https://yingkai-li.github.io/files/drafts/Dynamic_Scoring.pdf){:target="_blank"}  
