@@ -13,11 +13,11 @@ location: "Singapore"
 
 ## General Equilibrium Lecture Notes
 
-* [Existence of General Equilibrium](/files/EC5881/equilibrium_existence.pdf){:target="_blank"}  
+* [Existence of General Equilibrium](/files/EC5301/GE.pdf){:target="_blank"}  
 
-* [Welfare Theorems](/files/EC5881/welfare_theorem.pdf){:target="_blank"} 
+* [Welfare Theorems](/files/EC5301/Welfare.pdf){:target="_blank"} 
 
-* [Production Economy](/files/EC5881/production_economy.pdf){:target="_blank"} 
+* [Production Economy](/files/EC5301/Production.pdf){:target="_blank"} 
 
 
 ## Game Theory Lecture Notes
