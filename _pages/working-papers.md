@@ -16,6 +16,9 @@ Revise and Resubmit at *Journal of Economic Theory*.
 Jason Gaitonde, Yingkai Li, Bar Light, Brendan Lucier, Aleksandrs Slivkins.  
 major revision at *Operations Research*.
 
+* [Transparency in Team Contracts](){:target="_blank"}  
+Paul Dütting, Yingkai Li, Inbal Talgam-Cohen, Jinzhao Wu.
+
 * [Multi-Dimensional Screening with Endogenous Information Disclosure](https://arxiv.org/abs/2502.17809){:target="_blank"}  
 Yang Cai, Yingkai Li, Jinzhao Wu.
 
