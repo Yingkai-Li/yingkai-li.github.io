@@ -4,6 +4,10 @@ permalink: /working-papers/
 author_profile: true
 ---
 
+* [Selling Data to an Agent with Endogenous Information](https://arxiv.org/abs/2103.05788){:target="_blank"}  
+Yingkai Li.  
+major revision at *Management Science*.
+
 * [Mechanism Design under Costly Signaling: the Value of Non-Coordination](https://yingkai-li.github.io/files/drafts/non-coordination.pdf){:target="_blank"}  
 Yingkai Li, Xiaoyun Qiu.  
 Revise and Resubmit at *Theoretical Economics*.
