@@ -29,6 +29,9 @@ Yang Cai, Yingkai Li, Jinzhao Wu.
 * [Incentivizing Forecasters to Learn: Summarized vs. Unrestricted Advice](https://arxiv.org/abs/2310.19147){:target="_blank"}  
 Yingkai Li, Jonathan Libgober.
 
+* [Fair Team Contracts](https://arxiv.org/abs/2512.19388){:target="_blank"}  
+Matteo Castiglioni, Junjie Chen, Yingkai Li.
+
 * [Fair Contracts](https://arxiv.org/abs/2507.11214){:target="_blank"}  
 Matteo Castiglioni, Junjie Chen, Yingkai Li.
 
