@@ -26,7 +26,7 @@ Paul Dütting, Yingkai Li, Inbal Talgam-Cohen, Jinzhao Wu.
 * [Multi-Dimensional Screening with Endogenous Information Disclosure](https://arxiv.org/abs/2502.17809){:target="_blank"}  
 Yang Cai, Yingkai Li, Jinzhao Wu.
 
-* [Incentivizing Forecasters to Learn: Summarized vs. Unrestricted Advice](https://yingkai-li.github.io/files/drafts/Dynamic_Scoring.pdf){:target="_blank"}  
+* [Incentivizing Forecasters to Learn: Summarized vs. Unrestricted Advice](https://arxiv.org/abs/2310.19147){:target="_blank"}  
 Yingkai Li, Jonathan Libgober.
 
 * [Fair Contracts](https://arxiv.org/abs/2507.11214){:target="_blank"}  
@@ -34,6 +34,9 @@ Matteo Castiglioni, Junjie Chen, Yingkai Li.
 
 * [Simple Mechanisms for Agents with Non-linear Utilities](https://yingkai-li.github.io/files/drafts/simple_non_linear.pdf){:target="_blank"}  
 Yiding Feng, Jason Hartline, Yingkai Li.
+
+* [Three Tiers and Thresholds: Incentives in Private Market Investing](https://arxiv.org/abs/2512.19405){:target="_blank"}  
+Jussi Keppo, Yingkai Li.
 
 * [Information Acquisition Towards Unanimous Consent](https://arxiv.org/abs/2405.18521){:target="_blank"}  
 Yingkai Li, Boli Xu.
