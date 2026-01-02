@@ -47,7 +47,7 @@ Yingkai Li, Boli Xu.
 * [Exploration and Incentivizing Participation in Clinical Trials](https://arxiv.org/abs/2202.06191){:target="_blank"}  
 Yingkai Li, Aleksandrs Slivkins. 
 
-* [Scale-robust Auctions](https://arxiv.org/pdf/2510.21231){:target="_blank"}  
+* [Scale-robust Auctions](https://arxiv.org/abs/2510.21231){:target="_blank"}  
 Jason Hartline, Aleck Johnsen, Yingkai Li.
 
 * [Mechanism Design with Endogenous Principal Learning](https://yingkai-li.github.io/files/drafts/principal_learning.pdf)  
