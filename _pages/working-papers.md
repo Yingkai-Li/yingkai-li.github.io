@@ -20,6 +20,9 @@ Revise and Resubmit at *Journal of Economic Theory*.
 Jason Gaitonde, Yingkai Li, Bar Light, Brendan Lucier, Aleksandrs Slivkins.  
 major revision at *Operations Research*.
 
+* [Screening for Choice Sets](https://arxiv.org/abs/2601.15580){:target="_blank"}  
+Tan Gan, Yingkai Li.
+
 * [Transparency in Team Contracts](){:target="_blank"}  
 Paul Dütting, Yingkai Li, Inbal Talgam-Cohen, Jinzhao Wu.
 
