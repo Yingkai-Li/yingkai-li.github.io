@@ -50,7 +50,7 @@ Jussi Keppo, Yingkai Li.
 * [Information Acquisition Towards Unanimous Consent](https://arxiv.org/abs/2405.18521){:target="_blank"}  
 Yingkai Li, Boli Xu.
 
-* [Exploration and Incentivizing Participation in Clinical Trials](https://arxiv.org/abs/2202.06191){:target="_blank"}  
+* [Exploration and Incentivizing Participation in Randomized Trials](https://arxiv.org/abs/2202.06191){:target="_blank"}  
 Yingkai Li, Aleksandrs Slivkins. 
 
 * [Scale-robust Auctions](https://arxiv.org/abs/2510.21231){:target="_blank"}  
