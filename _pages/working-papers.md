@@ -23,6 +23,9 @@ major revision at *Operations Research*.
 * [Screening for Choice Sets](https://arxiv.org/abs/2601.15580){:target="_blank"}  
 Tan Gan, Yingkai Li.
 
+* [Anonymous Pricing in Large Markets](https://arxiv.org/abs/2601.16488){:target="_blank"}  
+Yaonan Jin, Yingkai Li.
+
 * [Transparency in Team Contracts](){:target="_blank"}  
 Paul Dütting, Yingkai Li, Inbal Talgam-Cohen, Jinzhao Wu.
 
