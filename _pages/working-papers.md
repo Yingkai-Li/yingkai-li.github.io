@@ -47,7 +47,7 @@ Yiding Feng, Jason Hartline, Yingkai Li.
 * [Three Tiers and Thresholds: Incentives in Private Market Investing](https://arxiv.org/abs/2512.19405){:target="_blank"}  
 Jussi Keppo, Yingkai Li.
 
-* [Information Acquisition Towards Unanimous Consent](https://arxiv.org/abs/2405.18521){:target="_blank"}  
+* [Learning and Communication Towards Unanimous Consent](https://arxiv.org/abs/2405.18521){:target="_blank"}  
 Yingkai Li, Boli Xu.
 
 * [Exploration and Incentivizing Participation in Randomized Trials](https://arxiv.org/abs/2202.06191){:target="_blank"}  
