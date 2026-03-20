@@ -8,7 +8,7 @@ author_profile: true
 Yingkai Li.  
 major revision at *Management Science*.
 
-* [Mechanism Design under Costly Signaling: the Value of Non-Coordination](https://yingkai-li.github.io/files/drafts/non-coordination.pdf){:target="_blank"}  
+* [Mechanism Design under Costly Signaling: the Value of Non-Coordination](https://arxiv.org/abs/2302.09168){:target="_blank"}  
 Yingkai Li, Xiaoyun Qiu.  
 Revise and Resubmit at *Theoretical Economics*.
 
@@ -60,7 +60,10 @@ Jason Hartline, Aleck Johnsen, Yingkai Li.
 Daniel Clark, Yingkai Li.  
 
 * [Dynamics and Contracts for an Agent with Misspecified Beliefs](https://arxiv.org/abs/2405.20423){:target="_blank"}  
-Yingkai Li, Argyris Oikonomou.
+Yingkai Li, Argyris Oikonomou.  
+
+[Allocating Resources under Strategic Misrepresentation](https://arxiv.org/abs/2603.04173){:target="_blank"}  
+Yingkai Li, Xiaoyun Qiu.  
 
 
 # Notes and Dormant Papers
