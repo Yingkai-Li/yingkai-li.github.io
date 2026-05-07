@@ -26,6 +26,9 @@ Tan Gan, Yingkai Li.
 * [Anonymous Pricing in Large Markets](https://arxiv.org/abs/2601.16488){:target="_blank"}  
 Yaonan Jin, Yingkai Li.
 
+* [Going Public: Communication in Collective Decisions](https://arxiv.org/abs/2605.03621){:target="_blank"}  
+Zhicheng Du, Yingkai Li, Boli Xu.
+
 * [Transparency in Team Contracts](){:target="_blank"}  
 Paul Dütting, Yingkai Li, Inbal Talgam-Cohen, Jinzhao Wu.
 
