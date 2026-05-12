@@ -4,6 +4,10 @@ permalink: /working-papers/
 author_profile: true
 ---
 
+* [Learning and Communication Towards Unanimous Consent](https://arxiv.org/abs/2405.18521){:target="_blank"}  
+Yingkai Li, Boli Xu.  
+Revise and Resubmit at *American Economic Journal: Microeconomics*.
+
 * [Selling Data to an Agent with Endogenous Information](https://arxiv.org/abs/2103.05788){:target="_blank"}  
 Yingkai Li.  
 major revision at *Management Science*.
@@ -49,9 +53,6 @@ Yiding Feng, Jason Hartline, Yingkai Li.
 
 * [Three Tiers and Thresholds: Incentives in Private Market Investing](https://arxiv.org/abs/2512.19405){:target="_blank"}  
 Jussi Keppo, Yingkai Li.
-
-* [Learning and Communication Towards Unanimous Consent](https://arxiv.org/abs/2405.18521){:target="_blank"}  
-Yingkai Li, Boli Xu.
 
 * [Exploration and Incentivizing Participation in Randomized Trials](https://arxiv.org/abs/2202.06191){:target="_blank"}  
 Yingkai Li, Aleksandrs Slivkins. 
