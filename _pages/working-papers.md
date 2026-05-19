@@ -66,8 +66,9 @@ Daniel Clark, Yingkai Li.
 * [Dynamics and Contracts for an Agent with Misspecified Beliefs](https://arxiv.org/abs/2405.20423){:target="_blank"}  
 Yingkai Li, Argyris Oikonomou.  
 
+<!-- 
 * [Allocating Resources under Strategic Misrepresentation](https://arxiv.org/abs/2603.04173){:target="_blank"}  
-Yingkai Li, Xiaoyun Qiu.  
+Yingkai Li, Xiaoyun Qiu.   -->
 
 
 # Notes and Dormant Papers
