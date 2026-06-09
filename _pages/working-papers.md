@@ -4,6 +4,10 @@ permalink: /working-papers/
 author_profile: true
 ---
 
+* [Algorithmic Information Disclosure in Optimal Auctions](https://arxiv.org/abs/2403.08145){:target="_blank"}  
+Yang Cai, Yingkai Li, Jinzhao Wu.  
+major revision at *Operations Research*.
+
 * [Learning and Communication Towards Unanimous Consent](https://arxiv.org/abs/2405.18521){:target="_blank"}  
 Yingkai Li, Boli Xu.  
 Revise and Resubmit at *American Economic Journal: Microeconomics*.
