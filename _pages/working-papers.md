@@ -20,10 +20,6 @@ major revision at *Management Science*.
 Yingkai Li, Xiaoyun Qiu.  
 Revise and Resubmit at *Theoretical Economics*.
 
-* [Managing Persuasion Robustly: The Optimality of Quota Rules](https://arxiv.org/abs/2310.10024){:target="_blank"}  
-Dirk Bergemann, Tan Gan, Yingkai Li.  
-Conditional Accepted at *Journal of Economic Theory*.
-
 * [Budget Pacing in Repeated Auctions: Regret and Efficiency without Convergence](https://arxiv.org/abs/2205.08674){:target="_blank"}  
 Jason Gaitonde, Yingkai Li, Bar Light, Brendan Lucier, Aleksandrs Slivkins.  
 major revision at *Operations Research*.
