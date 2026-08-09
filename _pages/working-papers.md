@@ -63,15 +63,12 @@ Jason Hartline, Aleck Johnsen, Yingkai Li.
 * [Mechanism Design with Endogenous Principal Learning](https://yingkai-li.github.io/files/drafts/principal_learning.pdf)  
 Daniel Clark, Yingkai Li.  
 
-* [Dynamics and Contracts for an Agent with Misspecified Beliefs](https://arxiv.org/abs/2405.20423){:target="_blank"}  
-Yingkai Li, Argyris Oikonomou.  
-
-<!-- 
-* [Allocating Resources under Strategic Misrepresentation](https://arxiv.org/abs/2603.04173){:target="_blank"}  
-Yingkai Li, Xiaoyun Qiu.   -->
 
 
 # Notes and Dormant Papers
+
+* [Dynamics and Contracts for an Agent with Misspecified Beliefs](https://arxiv.org/abs/2405.20423){:target="_blank"}  
+Yingkai Li, Argyris Oikonomou.  
 
 * [Misspecified Beliefs about Time Lags](https://arxiv.org/abs/2012.07238){:target="_blank"}  
 Yingkai Li, Harry Pei. 
