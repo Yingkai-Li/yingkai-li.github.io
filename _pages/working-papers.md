@@ -4,6 +4,10 @@ permalink: /working-papers/
 author_profile: true
 ---
 
+* [Mechanism Design under Costly Signaling: the Value of Non-Coordination](https://arxiv.org/abs/2302.09168){:target="_blank"}  
+Yingkai Li, Xiaoyun Qiu.  
+Conditional Accepted at *Theoretical Economics*.
+
 * [Algorithmic Information Disclosure in Optimal Auctions](https://arxiv.org/abs/2403.08145){:target="_blank"}  
 Yang Cai, Yingkai Li, Jinzhao Wu.  
 major revision at *Operations Research*.
@@ -15,10 +19,6 @@ Revise and Resubmit at *American Economic Journal: Microeconomics*.
 * [Selling Data to an Agent with Endogenous Information](https://arxiv.org/abs/2103.05788){:target="_blank"}  
 Yingkai Li.  
 major revision at *Management Science*.
-
-* [Mechanism Design under Costly Signaling: the Value of Non-Coordination](https://arxiv.org/abs/2302.09168){:target="_blank"}  
-Yingkai Li, Xiaoyun Qiu.  
-Revise and Resubmit at *Theoretical Economics*.
 
 * [Budget Pacing in Repeated Auctions: Regret and Efficiency without Convergence](https://arxiv.org/abs/2205.08674){:target="_blank"}  
 Jason Gaitonde, Yingkai Li, Bar Light, Brendan Lucier, Aleksandrs Slivkins.  
