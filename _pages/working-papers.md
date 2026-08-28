@@ -54,18 +54,18 @@ Yiding Feng, Jason Hartline, Yingkai Li.
 * [Three Tiers and Thresholds: Incentives in Private Market Investing](https://arxiv.org/abs/2512.19405){:target="_blank"}  
 Jussi Keppo, Yingkai Li.
 
-* [Exploration and Incentivizing Participation in Randomized Trials](https://arxiv.org/abs/2202.06191){:target="_blank"}  
-Yingkai Li, Aleksandrs Slivkins. 
-
-* [Scale-robust Auctions](https://arxiv.org/abs/2510.21231){:target="_blank"}  
-Jason Hartline, Aleck Johnsen, Yingkai Li.
-
 * [Mechanism Design with Endogenous Principal Learning](https://yingkai-li.github.io/files/drafts/principal_learning.pdf)  
 Daniel Clark, Yingkai Li.  
 
 
 
 # Notes and Dormant Papers
+
+* [Exploration and Incentivizing Participation in Randomized Trials](https://arxiv.org/abs/2202.06191){:target="_blank"}  
+Yingkai Li, Aleksandrs Slivkins. 
+
+* [Scale-robust Auctions](https://arxiv.org/abs/2510.21231){:target="_blank"}  
+Jason Hartline, Aleck Johnsen, Yingkai Li.
 
 * [Dynamics and Contracts for an Agent with Misspecified Beliefs](https://arxiv.org/abs/2405.20423){:target="_blank"}  
 Yingkai Li, Argyris Oikonomou.  
