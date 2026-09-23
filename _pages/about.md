@@ -17,7 +17,7 @@ Yingkai Li is an Assistant Professor (Presidential Young Professor) in Economics
 ### Research Interests
 * Mechanism Design
 * Information Design
-* Algorithmic Game Theory
+* Economics of AI
 <!-- * Online Algorithms and Learning -->
 
 ### Contacts
