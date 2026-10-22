@@ -48,7 +48,7 @@ Matteo Castiglioni, Junjie Chen, Yingkai Li.
 * [Fair Contracts](https://arxiv.org/abs/2507.11214){:target="_blank"}  
 Matteo Castiglioni, Junjie Chen, Yingkai Li.
 
-* [Simple Mechanisms for Agents with Non-linear Utilities](https://yingkai-li.github.io/files/drafts/simple_non_linear.pdf){:target="_blank"}  
+* [Selling to Non-linear Agents: A Demand-Based Auction](https://arxiv.org/abs/2003.00545){:target="_blank"}  
 Yiding Feng, Jason Hartline, Yingkai Li.
 
 * [Three Tiers and Thresholds: Incentives in Private Market Investing](https://arxiv.org/abs/2512.19405){:target="_blank"}  
