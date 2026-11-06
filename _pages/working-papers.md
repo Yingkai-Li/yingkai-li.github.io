@@ -33,7 +33,7 @@ Yaonan Jin, Yingkai Li.
 * [Going Public: Communication in Collective Decisions](https://arxiv.org/abs/2605.03621){:target="_blank"}  
 Zhicheng Du, Yingkai Li, Boli Xu.
 
-* [Transparency in Team Contracts](){:target="_blank"}  
+* [Transparency in Team Contracts](https://arxiv.org/abs/2611.07494){:target="_blank"}  
 Paul Dütting, Yingkai Li, Inbal Talgam-Cohen, Jinzhao Wu.
 
 * [Multi-Dimensional Screening with Endogenous Information Disclosure](https://arxiv.org/abs/2502.17809){:target="_blank"}  
