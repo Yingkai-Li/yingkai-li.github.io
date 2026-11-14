@@ -30,6 +30,9 @@ Tan Gan, Yingkai Li.
 * [Anonymous Pricing in Large Markets](https://arxiv.org/abs/2601.16488){:target="_blank"}  
 Yaonan Jin, Yingkai Li.
 
+* [Artificial Currency and Separate Selling: A 3-Approximation for Consumer Surplus](https://arxiv.org/abs/2611.14509){:target="_blank"}  
+Yang Cai, Yingkai Li, Jinzhao Wu.  
+
 * [Going Public: Communication in Collective Decisions](https://arxiv.org/abs/2605.03621){:target="_blank"}  
 Zhicheng Du, Yingkai Li, Boli Xu.
 
